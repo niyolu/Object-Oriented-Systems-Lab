@@ -1,6 +1,5 @@
 // Physical-Virtual Memory Mapping Simulation 
 // using buddy allocation
-// created by Nils Lübben
 
 #include <iostream>
 #include <string>
